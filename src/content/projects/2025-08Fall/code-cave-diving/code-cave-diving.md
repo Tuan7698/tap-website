@@ -45,13 +45,15 @@ imageLogoDark: "./cave_logo_dark.jpg"
 
 images: [
     { src: './CREATE_Team.jpg', alt: 'Code Cave Diving Group at the CREATE Symposium'},
-    { src: './Tap_Expo_Team.jpg', alt: 'Code Cave Diving Group at the TAP Expo'},
+    { src: './TAP_Expo_Team.jpg', alt: 'Code Cave Diving Group at the TAP Expo'},
     { src: './TapExpo2.jpg', alt: 'Tap Expo Fall 2025'},
-    { src: './TapExpo4.jpg', alt: 'Tap Expo Fall 2025'},
+    { src: './TapExpo3.jpg', alt: 'Tap Expo Fall 2025'},
     { src: './CCSCPhoto1.jpg', alt: 'Code Cave Diving at the CCSC Conference Fall 2025'}
 ]
 
 ---
+
+
 
 ## 📢 About
 
